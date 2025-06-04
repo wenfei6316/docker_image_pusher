@@ -1,4 +1,5 @@
-#支持私库
-opengrok/docker
-#支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
+bitnami/redis-cluster
+bitnami/redis-exporter
+bitnami/os-shell
+bitnami/wordpress
+bitnami/apache-exporter
